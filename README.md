@@ -1,13 +1,10 @@
-# ⚠️ Importante!!!
-Você pode escolher qualquer um dos desafios para desenvolver. Sinta-se à vontade para começar pelo desafio que mais lhe interessa.
-
 # Desafio Super Trunfo - Países - Comparação das Cartas
 
-Bem-vindo ao desafio "Super Trunfo - Países"! Neste projeto, você desenvolverá um sistema para comparar cartas baseadas em atributos de cidades. O desafio é dividido em três níveis: Novato, Aventureiro e Mestre. Cada nível adiciona novas funcionalidades e complexidades, permitindo um aprendizado progressivo.
+Bem-vindo ao desafio "Super Trunfo - Países"! Neste projeto, é desenvolvido um sistema para comparar cartas baseadas em atributos de cidades. O desafio é dividido em três níveis: Novato, Aventureiro e Mestre. Cada nível adiciona novas funcionalidades e complexidades, permitindo um aprendizado progressivo.
 
 ## 🏅 Nível Novato
 
-No nível Novato, você começará implementando a lógica básica de comparação entre cartas utilizando estruturas de decisão `if` e `if-else`.
+No nível Novato, é implementado a lógica básica de comparação entre cartas utilizando estruturas de decisão `if` e `if-else`.
 
 ### 🚩 Objetivos:
 - **Cadastro de Cartas:** O sistema permitirá ao usuário cadastrar cartas de cidades, incluindo informações como estado, código da carta, nome da cidade, população, área, PIB e número de pontos turísticos.
@@ -26,7 +23,7 @@ No nível Novato, você começará implementando a lógica básica de comparaç�
 
 ## 🏅 Nível Aventureiro
 
-No nível Aventureiro, você expandirá o sistema para incluir a comparação aninhada e a criação de um menu interativo usando `switch`.
+No nível Aventureiro, há uma expansão no sistema para incluir a comparação aninhada e a criação de um menu interativo usando `switch`.
 
 ### 🆕 Diferença em relação ao Nível Novato:
 - **Menu Interativo:** O usuário poderá escolher diferentes atributos para comparação através de um menu.
@@ -41,7 +38,7 @@ No nível Aventureiro, você expandirá o sistema para incluir a comparação an
 
 ## 🏅 Nível Mestre
 
-No nível Mestre, o desafio se intensifica com a adição de funcionalidades avançadas, como menus dinâmicos e lógica de decisão complexa com operadores ternários.
+No nível Mestre, o desafio sofre uam melhoria com a adição de funcionalidades avançadas, como menus dinâmicos e lógica de decisão complexa com operadores ternários.
 
 ### 🆕 Diferença em relação ao Nível Aventureiro:
 - **Escolha de Dois Atributos:** O usuário poderá escolher dois atributos para comparação entre as cartas.
@@ -67,8 +64,3 @@ No nível Mestre, o desafio se intensifica com a adição de funcionalidades ava
 - **Manutenibilidade:** O código deve ser bem estruturado e documentado.
 - **Confiabilidade:** O sistema deve ser robusto e capaz de lidar com entradas inválidas de forma adequada.
 
----
-
-Boa sorte no desenvolvimento deste desafio e aproveite para aprender e se divertir enquanto progride pelos níveis!
-
-Equipe de Ensino - MateCheck
