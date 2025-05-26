@@ -16,7 +16,7 @@ typedef struct {
 
 // Função para cadastrar os dados de uma carta
 void cadastrarCarta(Carta *carta) {
-    printf("\n=== Cadastro da Carta ===\n");
+    printf("\n=== Cadastro da Carta  ===\n");
     
     // Entrada da letra do estado
     printf("Estado (letra): ");

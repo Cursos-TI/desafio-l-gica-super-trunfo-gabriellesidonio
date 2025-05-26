@@ -64,6 +64,16 @@ int main() {
     printf("Pontos turisticos: ");
     scanf("%d", &pontos2);
 
+    // === Exibição dos dados da Carta 2 ===
+    printf("\n=== Dados da Carta 2 ===\n");
+    printf("Estado (letra): %c\n", estado2);
+    printf("Codigo da carta: %s\n", codigo2);
+    printf("Nome da cidade: %s\n", nome2);
+    printf("Populacao: %d\n", populacao2);
+    printf("Area (em km²): %.2f\n", area2);
+    printf("PIB (em bilhoes): %.2f\n", pib2);
+    printf("Pontos turisticos: %d\n", pontos2);
+
     // === Cálculos dos indicadores ===
     float densidade1 = populacao1 / area1;                  // habitantes por km²
     float densidade2 = populacao2 / area2;
