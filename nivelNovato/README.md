@@ -18,9 +18,9 @@ Cadastra duas cidades com as seguintes informações:
 - Compara o PIB das duas cidades e mostra qual cidade tem o maior valor.
 
 # Como compilar e executar
-- Abra o terminal na pasta SuperTrunfo-Logica_novato.
+- Abra o terminal na pasta nivelNovato.
 - com o comando: 
-gcc logica_nivelnovato.c -o novato
+gcc logicaNovato.c -o logicaNovato
 ./novato
 
 # Exemplo de uso

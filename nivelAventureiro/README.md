@@ -29,9 +29,8 @@ Este programa em linguagem C é uma continuação do desafio Super Trunfo, onde 
 ### 1. Compile o código
 
 Se estiver usando GCC:
-gcc logica_nivelaventureiro.c -o aventureiro
-
-▶️: ./aventureiro
+gcc logicaAventureiro.c -o logicaAventureiro
+./aventureiro
 
 ## Exemplo de uso
 yaml

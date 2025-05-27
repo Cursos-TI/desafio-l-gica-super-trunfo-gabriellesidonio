@@ -15,8 +15,8 @@ Este projeto é a implementação do desafio final do jogo Super Trunfo, onde o 
 ## Como compilar
 
 No terminal, rode:
-gcc -logica_nivelmestre.c  -o mestre
-./super_trunfo
+gcc -logicaMestre.c  -o logicaMestre
+./mestre
 
 O programa solicitará o cadastro das cartas e a escolha dos atributos, mostrando o resultado final da comparação.
 
