@@ -25,16 +25,15 @@ Este programa em linguagem C é uma continuação do desafio Super Trunfo, onde 
 ---
 
 ## Como compilar e executar
+- Abra o terminal na pasta nivelNovato.
+- com o comando: 
+gcc nivelAventureiro/logicaAventureiro.c -o logicaAventureiro
+# Execute
+./logicaAventureiro
 
-### 1. Compile o código
-
-Se estiver usando GCC:
-gcc logicaAventureiro.c -o logicaAventureiro
-./aventureiro
 
 ## Exemplo de uso
-yaml
-Copiar código
+
 === Cadastro Cidade 1 ===
 Estado (letra): S
 Codigo da carta: C123

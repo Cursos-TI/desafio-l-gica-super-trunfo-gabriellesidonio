@@ -12,11 +12,12 @@ Este projeto é a implementação do desafio final do jogo Super Trunfo, onde o 
 - Tratamento de empates.
 - Exibição clara e detalhada dos resultados.
 
-## Como compilar
-
-No terminal, rode:
-gcc -logicaMestre.c  -o logicaMestre
-./mestre
+## Como compilar e executar
+- Abra o terminal na pasta nivelNovato.
+- com o comando: 
+gcc nivelMestre/logicaMestre.c -o logicaMestre
+# Execute
+./logicaMestre
 
 O programa solicitará o cadastro das cartas e a escolha dos atributos, mostrando o resultado final da comparação.
 

@@ -20,8 +20,9 @@ Cadastra duas cidades com as seguintes informações:
 # Como compilar e executar
 - Abra o terminal na pasta nivelNovato.
 - com o comando: 
-gcc logicaNovato.c -o logicaNovato
-./novato
+gcc nivelNovato/logicaNovato.c -o logicaNovato
+# Execute
+./logicaNovato
 
 # Exemplo de uso
 O programa vai pedir os dados da Cidade 1 e Cidade 2, e ao final mostrará:
