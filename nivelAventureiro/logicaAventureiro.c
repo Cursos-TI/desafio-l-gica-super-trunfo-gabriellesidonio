@@ -73,6 +73,7 @@ int main() {
     printf("Area (em km²): %.2f\n", area2);
     printf("PIB (em bilhoes): %.2f\n", pib2);
     printf("Pontos turisticos: %d\n", pontos2);
+
     // === Cálculos dos indicadores ===
     float densidade1 = populacao1 / area1;                  // habitantes por km²
     float densidade2 = populacao2 / area2;
